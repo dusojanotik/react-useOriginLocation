@@ -1,6 +1,6 @@
 {
   "name": "react-use-origin-location",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple hook to get origin location",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "origin"
   ],
   "author": "dusojanotik",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dusojanotik/react-useOriginLocation/issues"
   },
