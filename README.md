@@ -16,7 +16,7 @@ $ npm install --save react-use-origin-location
 
 ## Usage
 
-`useDimensions` returns an origin location of your site.
+`useOriginLocation` returns an origin location of your site.
 
 ```javascript
 import useOriginLocation from 'react-use-origin-location';
